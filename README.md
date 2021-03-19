@@ -4,8 +4,8 @@ I present these code samples as a way of demonstrating my current version of wel
 They focus on well known algorithms, firstly creating code that works(reliability), then refactoring to improve performance, readability and flexibility.
 
 The goal of this project is two-fold:
-* To help others improve the reasoning behind their code and
-* To improve the reasoning behind my own code.
+* To improve the reasoning behind my own code and
+* to help others improve the reasoning behind their code.
 
 Any potential improvements to the code, or questions about any decisions are welcome. Just create an issue and we can discuss it.
 
